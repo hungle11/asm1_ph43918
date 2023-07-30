@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "wooden sofa",
+      "price": "44434",
+      "id": 3
+    },
+    {
+      "name": "hunggg",
+      "price": "250",
+      "id": 4
+    },
+    {
+      "name": "wooden sofa",
+      "price": "44000",
+      "id": 6
+    }
+  ]
+}
